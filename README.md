@@ -1,4 +1,4 @@
-# dither& — Figma plugin
+# dither&: live now on Figma Community
 
 The full interactive dither lab, running inside Figma. Generate dithered
 gradients and patterns, grow living reaction-diffusion fields, and even rebuild
