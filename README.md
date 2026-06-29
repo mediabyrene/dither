@@ -2,11 +2,11 @@
 
 # dither&: live now on Figma Community
 
-### ▶ [Get it on Figma Community →](https://www.figma.com/community/file/1649335857373581518/dither)
+### ▶ [try it now on Figma Community →](https://www.figma.com/community/file/1649335857373581518/dither)
 
 The full interactive dither lab, running inside Figma. Generate dithered
 gradients and patterns, grow living reaction-diffusion fields, and even rebuild
-your art as editable 3D terrain — then drop the result straight into your Figma
+your art as editable 3D terrain, then drop the result straight into your Figma
 file as an image or vector.
 
 > Design is not a job to me, it's a method of thought, the main facet of how I
