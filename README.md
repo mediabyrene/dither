@@ -2,6 +2,8 @@
 
 # dither&: live now on Figma Community
 
+### ▶ [Get it on Figma Community →](https://www.figma.com/community/file/1649335857373581518/dither)
+
 The full interactive dither lab, running inside Figma. Generate dithered
 gradients and patterns, grow living reaction-diffusion fields, and even rebuild
 your art as editable 3D terrain — then drop the result straight into your Figma
