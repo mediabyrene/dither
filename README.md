@@ -1,3 +1,5 @@
+![dither&](banner.png)
+
 # dither&: live now on Figma Community
 
 The full interactive dither lab, running inside Figma. Generate dithered
